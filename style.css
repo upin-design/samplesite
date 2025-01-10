@@ -395,7 +395,7 @@ input[type="submit"] {
     margin-top: 20%;
   }
   #home {
-    background-image: url(../images/main-bg_res.jpg);
+    background-image: url(./images/main-bg_res.jpg);
     background-blend-mode: luminosity;
     min-height: 100vh;
   }
