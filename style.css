@@ -120,7 +120,7 @@ header{
 /* NEWS
 -------------------------- */
 #news {
-  background-image: url(/images/news-bg.jpg);
+  background-image: url(../images/news-bg.jpg);
   height: 50vh;
   margin-bottom: 40px;
 }
@@ -238,7 +238,7 @@ article {
 /* MEMBER
 ------------------------------------- */
 #member {
-  background-image: url(/images/menu-bg.jpg);
+  background-image: url(../images/menu-bg.jpg);
   background-position: right;
   height: 100vh;
 }
@@ -279,7 +279,7 @@ article {
 /* CONTACT
 ------------------------------------- */
 #contact {
-  background-image: url(/images/contact-bg.jpg);
+  background-image: url(../images/contact-bg.jpg);
   min-height: 100vh;
   background-size: cover;
   padding-top: 20%;
