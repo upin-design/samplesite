@@ -109,7 +109,7 @@ header{
   background-position: center-top;
 }
 #home {
-  background-image: url(/images/main-bg_PC.jpg);
+  background-image: url(images/main-bg_PC.jpg);
   background-blend-mode: luminosity;
   min-height: 100vh;
 }
@@ -120,7 +120,7 @@ header{
 /* NEWS
 -------------------------- */
 #news {
-  background-image: url(../images/news-bg.jpg);
+  background-image: url(images/news-bg.jpg);
   height: 50vh;
   margin-bottom: 40px;
 }
@@ -238,7 +238,7 @@ article {
 /* MEMBER
 ------------------------------------- */
 #member {
-  background-image: url(/images/menu-bg.jpg);
+  background-image: url(images/menu-bg.jpg);
   background-position: right;
   height: 100vh;
 }
@@ -279,7 +279,7 @@ article {
 /* CONTACT
 ------------------------------------- */
 #contact {
-  background-image: url(/images/contact-bg.jpg);
+  background-image: url(images/contact-bg.jpg);
   min-height: 100vh;
   background-size: cover;
   padding-top: 20%;
@@ -420,7 +420,7 @@ input[type="submit"] {
     padding-top: 30%;
   }
   #home {
-    background-image: url(/images/main-bg_res.jpg);
+    background-image: url(images/main-bg_res.jpg);
     background-blend-mode: luminosity;
     min-height: 100vh;
   }
@@ -482,7 +482,7 @@ input[type="submit"] {
     height: auto;
   }
   #member {
-    background-image: url(/images/menu-bg_res.jpg);
+    background-image: url(images/menu-bg_res.jpg);
     min-height: 100vh;
   }
 
